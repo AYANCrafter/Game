@@ -17,3 +17,7 @@ const team1="Argentina";
 
 const School="D.B.M.S English School";
 const board="ISC";
+
+const city="Jamshedpur";
+const state="Jharkhand";
+const district="East-Singhbhum";
